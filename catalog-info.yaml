@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: python-fastapi-app 
   description: A scaffolded Python web application
-  tags:
-    - 'devcontainers'
+
 spec:
   type: service
   lifecycle: experimental
