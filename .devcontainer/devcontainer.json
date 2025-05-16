@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "image": "python:3.11-slim",
 
   "forwardPorts": [5001]
 }
